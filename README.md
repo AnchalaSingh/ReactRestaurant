@@ -1,2 +1,2 @@
 # ReactRestaurant
-This project is related to Restaurant Application
+I made this project for a Restaurant Application.
